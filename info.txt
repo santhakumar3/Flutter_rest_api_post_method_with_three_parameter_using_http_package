@@ -1,0 +1,33 @@
+
+I Used HTTP Package for Flutter RestApi Access ( HTTP Package is the common package for RestAPI Access in flutter)
+
+Package link: https://pub.dev/packages/http
+==========
+
+
+Rest Api link: 1. https://dummy.restapiexample.com/create            2. https://dummy.restapiexample.com
+==============
+
+Method : Post
+=======
+
+dependency: 
+===========
+ http: ^1.1.0
+
+
+
+Fake Rest Api Websites:
+=============================
+
+1.	https://reqres.in
+2.	https://jsonplaceholder.typicode.com
+3.	https://dummyjson.com
+4.	https://dummy.restapiexample.com
+5.	https://mocki.io/fake-json-api
+6.	https://fakestoreapi.com
+7.	https://restful-api.dev
+
+
+I have used 4th (4.	https://dummy.restapiexample.com) web link Post Method in this project..
+
